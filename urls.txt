@@ -1,2 +1,2 @@
-http://comic.qq.com/
-http://jade.qq.com/index.shtml
+http://www.example.com
+http://test.abc.com/?tst=123
